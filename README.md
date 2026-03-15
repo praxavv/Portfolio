@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects and experiments in finance, programming, and technology.
 
-🌐 Live Site: https://yourdomain.com
+🌐 Live Site: https://praxavv.github.io/Portfolio/#projects
 
 ## Tech Stack
 HTML • CSS • JavaScript
