@@ -1,49 +1,31 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.pyc
-*.pyd
-*.pyo
-*.egg-info/
-.Python
-build/
-dist/
+# Node / frontend dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
 
-# Virtual environment
-myenv/
-.venv/
-venv/
-env/
+# Build outputs
+dist/
+build/
+out/
+.cache/
+
+# Environment files
+.env
+.env.local
+
+# OS junk
+.DS_Store
+Thumbs.db
+.Trashes
 
 # Editors
 .vscode/
 .idea/
 
-# OS-specific
-.DS_Store
-.Trashes
-Thumbs.db
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Logs and databases
+# Logs
 *.log
-*.sqlite3
-*.db
-
-# dotenv files
-.env
-.flaskenv
-
-# Testing
-.pytest_cache/
-.coverage
-
-# Jenkins
-Jenkinsfile.bak
 
 # Temporary files
-.gitignore.swp
-
-# Test files
-test.py
+*.swp
+*.tmp
